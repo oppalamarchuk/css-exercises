@@ -1,0 +1,20 @@
+.odd{
+    background-color : RGB(255,200,200);
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+
+}
+#id2{
+    color : RGB(0,0,255);
+    font-size : 36px;
+
+}
+
+.id3{
+    font-size : 24px;
+}
+
+#id4{
+    font-size : 24px;
+    font-weight : bold;
+    background-color : RGB(100,255,100);
+}

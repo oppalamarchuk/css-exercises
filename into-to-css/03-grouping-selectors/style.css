@@ -1,0 +1,17 @@
+button{
+    height:50px;
+
+}
+.clickable,
+.unclickable{
+    font-size: 28px;
+    font-family: Helvetica,Times New Roman,sans-serif;
+}
+
+.clickable{
+    background-color: RGB(0,0,0);
+    color: RGB(255,255,255);
+}
+.unclickable{
+    background-color: RGB(255,255,0);
+}
